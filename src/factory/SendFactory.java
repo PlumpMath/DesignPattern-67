@@ -1,3 +1,11 @@
+package factory;
+
+/**
+ * 工厂方法模式
+ * 
+ * @author HL
+ * 
+ */
 public class SendFactory {
 
 	public Sender produce(String type) {

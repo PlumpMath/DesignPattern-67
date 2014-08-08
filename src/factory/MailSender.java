@@ -1,3 +1,4 @@
+package factory;
 public class MailSender implements Sender {
 
 	@Override
