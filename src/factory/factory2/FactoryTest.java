@@ -1,4 +1,4 @@
-package factory2;
+package factory.factory2;
 
 /**
  * 静态工厂方法模式

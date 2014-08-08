@@ -1,4 +1,5 @@
-package factory2;
+package factory.factoryabstract;
+
 public class MailSender implements Sender {
 
 	@Override

@@ -1,4 +1,4 @@
-package factory1;
+package factory.factory1;
 
 /**
  * 多个工厂方法模式

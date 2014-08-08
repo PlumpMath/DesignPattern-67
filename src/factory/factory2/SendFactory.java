@@ -1,4 +1,4 @@
-package factory2;
+package factory.factory2;
 
 public class SendFactory {
 

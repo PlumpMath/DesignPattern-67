@@ -1,4 +1,4 @@
-package factory1;
+package factory.factory1;
 
 public class FactoryTest {
 

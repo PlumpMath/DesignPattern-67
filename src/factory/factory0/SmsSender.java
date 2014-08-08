@@ -1,4 +1,4 @@
-package factory;
+package factory.factory0;
 public class SmsSender implements Sender {
 
 	@Override
