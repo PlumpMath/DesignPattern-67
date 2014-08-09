@@ -1,4 +1,4 @@
-package factory.factoryabstract;
+package factoryabstract;
 
 /**
  * 抽象工厂模式（Abstract Factory）

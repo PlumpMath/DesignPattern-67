@@ -1,4 +1,4 @@
-package factory.factoryabstract;
+package factoryabstract;
 
 public class SendMailFactory implements Provider {
 
