@@ -44,9 +44,9 @@ public class Emperor {
 	}
 
 	public static Emperor getInstance(int nun) {
-
 		// 指定出一个皇帝，只要是个精神领袖就成
 		return (Emperor) emperorList.get(nun);
+
 	}
 
 	// 皇帝叫什么名字呀
