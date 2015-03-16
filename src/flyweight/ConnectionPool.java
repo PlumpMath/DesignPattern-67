@@ -5,6 +5,9 @@ import java.sql.DriverManager;
 import java.sql.SQLException;
 import java.util.Vector;
 
+/**
+ * 享元模式
+ */
 public class ConnectionPool {
 	private Vector<Connection> pool;
 
